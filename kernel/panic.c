@@ -32,6 +32,7 @@
 #include <trace/events/exception.h>
 #include <soc/qcom/minidump.h>
 
+
 #define PANIC_TIMER_STEP 100
 #define PANIC_BLINK_SPD 18
 

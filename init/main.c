@@ -95,6 +95,7 @@
 #include <asm/sections.h>
 #include <asm/cacheflush.h>
 
+
 static int kernel_init(void *);
 
 extern void init_IRQ(void);
